@@ -4,8 +4,8 @@
   <img src="https://github.com/nirbhaynaruka/ToDo-Notes-app/blob/master/assets/icon.png" width="150">
 </p>
 <p align="center">(Android/iOS)</p>
-<h1 align="center">ToDo Daily Task Planner, </h1>
-<h3 align="center">Tracker, Write Notes & Goal</h3>
+<h1 align="center">ToDo Daily Task Planner, Tracker, Write Notes & Goal </h1>
+<h3 align="center">Best app To Do Daily Task Planner, Activity Tracker, Write or make Notes & Goal.</h3>
 
 Manage your daily tasks, master list by one of the best apps to finish your To Do Daily Task Planner, Activity Tracker, Write or make Notes & Goal effectively.
 
@@ -60,7 +60,7 @@ Add, Edit, Delete Tasks, check on tasks by completion bar & checkbox
 I have added **About Us(FAQ Section)** in case you want to know more.  
 
 <p align="center"> 
-  <a href="https://github.com/itssudhanshu/CareIndia/blob/master/CareIndia_v1.0.0_Light.apk?raw=true">
+  <a href="https://github.com/nirbhaynaruka/ToDo-Notes-app/blob/master/app-arm64-v8a-release.apk?raw=true">
     <img src="https://img.shields.io/badge/Download%20App-Todo_Notes-blue.svg?style=for-the-badge">
   </a> 
 </p>
@@ -158,8 +158,8 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
 Because of some problem i wasnt able to publish it on playstore for now , may be you can find it later on playstore bythe title above
 For now I'm sharing the Apk Link:   
 
- <a href="https://github.com/itssudhanshu/CareIndia/blob/master/CareIndia_v1.0.0_Light.apk?raw=true">
-    <img src="https://github.com/nirbhaynaruka/ToDo-Notes-app/blob/master/assets/icon.png">
+ <a href="https://github.com/nirbhaynaruka/ToDo-Notes-app/blob/master/app-arm64-v8a-release.apk?raw=true">
+    <img src="https://img.shields.io/badge/Download%20App-Todo_Notes-blue.svg?style=for-the-badge">
   </a>  
 
 <h3>Building</h3>
