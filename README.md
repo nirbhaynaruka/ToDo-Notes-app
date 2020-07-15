@@ -17,32 +17,31 @@ To Do app is easy to use, having customizable features like motivation to make y
 
 ***⛑ How to use To Do App Manual?***
 
-👉 Edit your current tasks by long press on the recent notes or lists.
-👉 Remove tasks on sliding to block any of the sides.
-👉 Differentiate your tasks by colors. 
-👉 Add tasks through + sign below the To Do App.
-👉 Edit tasks pressing long to your previous input.
+👉 Edit your current tasks by long press on the recent notes or lists.  
+👉 Remove tasks on sliding to block any of the sides.  
+👉 Differentiate your tasks by colors.   
+👉 Add tasks through + sign below the To Do App.  
+👉 Edit tasks pressing long to your previous input.  
 
 
 
+<h4>⛑ Amazing To Do app features to organize you  </h4>
 
-⛑ Amazing To Do app features to organize you
-
-A daily planner for your tasks.
-Create and manage important notes.
-Share your lists on any device with your friends, colleagues, and family.
-Use To Do app for task management, bill reminder, maintaining shopping lists, and much more.
-Create trip manuals writing places to visit
-Write quotes, give titles to your write ups
-Save messages or any write up
-Task management features, Segment or break your tasks into manageable steps
-Create online dairy to write your Homework, School Tasks, and office tasks
-Write dictations immediately on a project, save and share it with colleagues
-Divide your tasks into groups and make an individual list for all your tasks
-Create unlimited notes or tasks and differentiate these by names
-Best search filter to find your notes in a click
-Mark your notes favorite, and important and filter all important notes at once clicking on star icon
-Add, Edit, Delete Tasks, check on tasks by completion bar & checkbox
+- A daily planner for your tasks.  
+- Create and manage important notes.  
+- Share your lists on any device with your friends, colleagues, and family.  
+- Use To Do app for task management, bill reminder, maintaining shopping lists, and much more.  
+- Create trip manuals writing places to visit.    
+- Write quotes, give titles to your write ups.     
+- Save messages or any write up.   
+- Task management features, Segment or break your tasks into manageable steps.    
+- Create online dairy to write your Homework, School Tasks, and office tasks.    
+- Write dictations immediately on a project, save and share it with colleagues.    
+- Divide your tasks into groups and make an individual list for all your tasks.    
+- Create unlimited notes or tasks and differentiate these by names.    
+- Best search filter to find your notes in a click.    
+- Mark your notes favorite, and important and filter all important notes at once clicking on star icon.    
+- Add, Edit, Delete Tasks, check on tasks by completion bar & checkbox.  
 
 
 <B> What more you can do on To-DO-App? </B>
@@ -57,7 +56,7 @@ Add, Edit, Delete Tasks, check on tasks by completion bar & checkbox
 <li>Project Notes or steps</li>
 <li>Travel, tour or trip List </li>
 
-I have added **About Us(FAQ Section)** in case you want to know more.  
+I have added **About Us(FAQ Section)** in case you want to know more.    
 
 <p align="center"> 
   <a href="https://github.com/nirbhaynaruka/ToDo-Notes-app/blob/master/app-arm64-v8a-release.apk?raw=true">
