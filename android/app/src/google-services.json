@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "580094455819",
+    "firebase_url": "https://todo-eb3a5.firebaseio.com",
+    "project_id": "todo-eb3a5",
+    "storage_bucket": "todo-eb3a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580094455819:android:f3f4447dbf1488acedd70e",
+        "android_client_info": {
+          "package_name": "com.todonotes.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580094455819-1sf9jvhnsguns9kdfjf4l8lle1grqoq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Dlol1rcK4OIFAOtaSFGsbuqM22u-Ndg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580094455819-1sf9jvhnsguns9kdfjf4l8lle1grqoq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3856528239276675~2500364310"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580094455819:android:bca416e07630153fedd70e",
+        "android_client_info": {
+          "package_name": "com.todo.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580094455819-1sf9jvhnsguns9kdfjf4l8lle1grqoq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Dlol1rcK4OIFAOtaSFGsbuqM22u-Ndg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580094455819-1sf9jvhnsguns9kdfjf4l8lle1grqoq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
